@@ -185,4 +185,4 @@ To run the application, set the `TEAM_ID`:
 2. Set your `TEAM_ID`.
 3. Re-open the project in Android Studio. It should show the registered iOS device in the `iosApp` run configuration.
 
-![Demo Video](readme_images/compose-ios.mov)
+![Demo Video](readme_images/compose-ios.gif)
